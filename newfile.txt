@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict 1st change master
+=======
+1st change in test
+>>>>>>> test
